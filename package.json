@@ -1,0 +1,20 @@
+{
+  "name": "nodejs_app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "co": "^4.6.0",
+    "express-session": "^1.17.1",
+    "serve-static": "^1.14.1",
+    "sqlite3": "^5.0.0"
+  },
+  "description": "<p align=\"center\">\r   <a href=\"https://nodejs.org/\">\r     <img alt=\"Node.js\" src=\"https://nodejs.org/static/images/logo-light.svg\" width=\"400\"/>\r   </a>\r </p>",
+  "main": "WebApp.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
